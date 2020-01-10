@@ -1,7 +1,7 @@
 pwd
 touch .configuration_caché.txt
 ls -alt
-mkdir creation crayons
+mkdir creation creation/crayons
 cd creation
 touch gomme.txt
 mv gomme.txt ../crayons
